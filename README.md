@@ -1,0 +1,2 @@
+# TipsCalculator
+A tips calculator
