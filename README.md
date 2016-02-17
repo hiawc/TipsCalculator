@@ -42,9 +42,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
--At first, it was kind of comfortable to code on Xcode for I could drag and drop objects in the viewController scene as I visualized for my app.
--But then the problems come with having to familiarize with a lot of unique functions that Swift bring in. It took me time to look into each new functions.
--Overall, coding "tips" in iOS was a very enjoyable experience as I've never coded using Xcode before and looking forward to do it again.
+At first, it was kind of comfortable to code on Xcode for I could drag and drop objects in the viewController scene as I visualized for my app.
+But then the problems come with having to familiarize with a lot of unique functions that Swift bring in. It took me time to look into each new functions.
+Overall, coding "tips" in iOS was a very enjoyable experience as I've never coded using Xcode before and looking forward to do it again.
 
 ## License
 
