@@ -28,12 +28,6 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 
-> HINT: You can put a `walkthrough.gif` file in your project folder, add to git, and use the following syntax to embed it: 
- 
-> `![Video Walkthrough](walkthrough.gif)` 
- 
-> You can also upload your image to imgur.com and embed the link here.
-
 Here's a walkthrough of implemented user stories:
 
 ![Video Walkthrough](http://i.imgur.com/NVWK8Rp.gif)
